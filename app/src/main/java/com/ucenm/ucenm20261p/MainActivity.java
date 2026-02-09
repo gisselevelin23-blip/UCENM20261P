@@ -1,5 +1,8 @@
 package com.ucenm.ucenm20261p;
 
+import static com.ucenm.ucenm20261p.R.*;
+
+import com.ucenm.ucenm20261p.R;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
